@@ -13,8 +13,6 @@
 
 /home/pbortolo/openfast_v3p0p0/build/glue-codes/openfast/openfast IEA-15-240-RWT_0rpm.fst &
 /home/pbortolo/openfast_v3p0p0/build/glue-codes/openfast/openfast IEA-15-240-RWT_0rpm_c2.fst &
-/home/pbortolo/openfast_v3p0p0/build/glue-codes/openfast/openfast IEA-15-240-RWT_2rpm.fst &
-/home/pbortolo/openfast_v3p0p0/build/glue-codes/openfast/openfast IEA-15-240-RWT_2rpm_c2.fst &
 /home/pbortolo/openfast_v3p0p0/build/glue-codes/openfast/openfast IEA-15-240-RWT_10rpm.fst &
 /home/pbortolo/openfast_v3p0p0/build/glue-codes/openfast/openfast IEA-15-240-RWT_10rpm_c2.fst &
 wait

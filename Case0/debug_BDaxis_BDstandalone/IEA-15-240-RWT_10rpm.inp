@@ -40,4 +40,4 @@ True               GlbRotBladeT0 - Reference orientation for BeamDyn calculation
 Non-dim blade-span eta   Fx          Fy            Fz           Mx           My           Mz
 (-)                      (N)         (N)           (N)          (N-m)        (N-m)        (N-m)
 ---------------------- PRIMARY INPUT FILE --------------------------------------
-"IEA-15-240-RWT_BeamDyn.dat"    InputFile - Name of the primary BeamDyn input file
+"../model/IEA-15-240-RWT_BeamDyn.dat"    InputFile - Name of the primary BeamDyn input file
